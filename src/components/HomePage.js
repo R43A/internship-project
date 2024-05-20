@@ -76,14 +76,7 @@ function HomePage() {
                 </h1>
               </div>
               <div className="child-b-txt-2">
-                <h1
-                  className="txt-1 m-0 p-txt res-2nd f-txt-1"
-                  style={{
-                    fontSize: "40px",
-                    fontWeight: "700",
-                    filter: "drop-shadow(1px 1px 2px black)",
-                  }}
-                >
+                <h1 className="txt-1 m-0 p-txt res-2nd f-txt-1">
                   ON TIME DELIEVERY
                 </h1>
                 <h1 className="txt-1 m-0 p-txt res-2nd f-txt-2">

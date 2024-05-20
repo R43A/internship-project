@@ -66,21 +66,27 @@ a.nav-link {
   padding: 3px 0;
 }
 
+.f-txt-1 {
+  font-size: 40px;
+  font-weight: 700;
+  filter: drop-shadow(1px 1px 2px black);
+}
+
 @media (max-width: 720px) {
   .res-1st {
-    font-size: medium;
+    font-size: small;
   }
 
   .f-txt {
-    font-size: xx-large;
+    font-size: x-large;
   }
   .f-txt-1 {
-    font-size: xx-large;
+    font-size: x-large;
     font-weight: 700;
     filter: drop-shadow(1px 1px 2px black);
   }
   .f-txt-2 {
-    font-size: 31px;
+    font-size: 24px;
     font-weight: 600;
     padding: 0;
   }
