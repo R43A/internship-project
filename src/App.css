@@ -196,3 +196,10 @@ div#navbarNav {
 ul.navbar-nav {
   margin-left: 13px;
 }
+
+@media (max-width: 720px) {
+  .nd-logo {
+    width: fit-content;
+    height: 34px;
+  }
+}
